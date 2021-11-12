@@ -1,3 +1,12 @@
-Creating new git folder for Kaggle Titanic Competition
+This folder contains a notebook used to work on Kaggle Titanic ML Competition together with csv files containing produced predictions.
 
-The objective of this project is to build a machine learning model that will predict which passengers of the Titanic survived.
+The scope of this ML project includes:
+1. Initial data investigation.
+2. Exploratory Data Analysis.
+3. Data cleaning.
+4. Model selection.
+5. Final prediction.
+
+So far, the best prediction performance was achieved using SVM model with default hyperparameters (accuracy score = 0.77511)
+
+The description of the competition is available here: https://www.kaggle.com/c/titanic
