@@ -1,3 +1,5 @@
+#Kaggle Titanic ML Competition
+
 This folder contains a notebook used to work on Kaggle Titanic ML Competition together with csv files containing produced predictions.
 
 The scope of this ML project includes:
